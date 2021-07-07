@@ -1,2 +1,2 @@
 # hello-world
-First repo for learning
+First repo for learning git
